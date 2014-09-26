@@ -6,12 +6,12 @@ $:.unshift(File.dirname(__FILE__) + '/../lib')
 
 require 'eventmachine'
 
-require 'citrus-admin'
-require 'citrus-loader'
-require 'citrus-protobuf'
-require 'citrus-protocol'
-require 'citrus-rpc'
-require 'citrus-scheduler'
+require 'pomelo-citrus-admin'
+require 'pomelo-citrus-loader'
+require 'pomelo-citrus-protobuf'
+require 'pomelo-citrus-protocol'
+require 'pomelo-citrus-rpc'
+require 'pomelo-citrus-scheduler'
 
 require 'citrus/util/constants'
 require 'citrus/util/utils'
