@@ -12,7 +12,7 @@ Recently, I would focus on my daily work, so I open source this project and hope
 
 ## Todo
 
-This gem is under development now, remaining about 30% of the workload to do including the tests.
+This gem is under development now, remaining about 30% of the work to do including the tests.
 
 ## Links
 
